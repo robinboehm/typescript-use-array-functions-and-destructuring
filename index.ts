@@ -2,8 +2,6 @@
 import './style.css';
 
 
-const books: Array<{title: string, isbn: string}> = []
-
 // Task: Define an interface for User and define a generic Array. Then find all the typos that happend here.
 const users = [
   {firstname: 'Robin', lastname:'Böhm', Admin: true},
